@@ -28,4 +28,22 @@ npm (Node Package Manager)
  ## Clone the Repositry:
 ```
 git clone https://github.com/your-username/investment-calculator.git
+```
+
+## Navigate into the repository folder
+```
+cd repository
+```
+## Install dependencies
+```
+npm install
+```
+## Start the development server:
+```
+npm run dev
+```
+## Open your browser and go to:
+```
+http://localhost:3000
+```
 
