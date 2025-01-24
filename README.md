@@ -51,8 +51,47 @@ npm install
 ```
 npm run dev
 ```
-## Open your browser and go to:
+5.Open your browser and go to:
 ```
 http://localhost:3000
 ```
+# Usage
+## Enter the following details in the input form:
 
+•Initial Investment: The amount of money you start with.
+
+•Annual Contribution: Additional money added every year.
+
+•Expected Return Rate: The annual growth rate percentage.
+
+•Duration: The number of years you plan to invest.
+
+•If the inputs are valid, the results table will display:
+
+•Year-by-year breakdown of your investment.
+
+•Total interest earned.
+
+•Total amount invested.
+
+
+•If the input duration is invalid (e.g., less than 1), an error message will prompt you to correct it.
+
+# Project Structure
+```
+investment-calculator/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── UserInput.jsx
+│   │   ├── Results.jsx
+│   ├── util/
+│   │   ├── investment.js    # Utility functions for calculations and formatting
+│   ├── App.jsx
+│   ├── index.css            # Global styling
+│   ├── index.js
+├── package.json
+├── README.md
+```
