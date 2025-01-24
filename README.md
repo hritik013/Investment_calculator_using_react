@@ -99,3 +99,16 @@ investment-calculator/
 ├── package.json
 ├── README.md
 ```
+# Languages and Technologies Used
+
+o JavaScript: The primary programming language for building the React-based application logic.
+
+o React.js: The front-end library used for creating interactive user interfaces and managing state.
+
+o HTML: For structuring the web application.
+
+o CSS: For styling and layout of the components.
+
+o Node.js: Used as the runtime for managing dependencies and running development/build scripts.
+
+o Netlify: For deployment and hosting the application.
