@@ -31,8 +31,8 @@ Check out the live version of this project here:
 •Real-time calculations as users update inputs.
 
 # Getting Started
-## Prerequisites
-## Ensure you have the following installed:
+### Prerequisites
+#### Ensure you have the following installed:
 
 Node.js (v16 or higher)
 npm (Node Package Manager)
