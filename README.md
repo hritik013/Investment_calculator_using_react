@@ -5,16 +5,25 @@ An interactive React-based application that calculates the investment growth ove
 # Features
 💠Input fields for:
 •Initial Investment
+
 •Annual Contribution
+
 •Expected Return Rate
+
 •Investment Duration
+
 •Instant validation for input fields (e.g., duration must be greater than 0).
 
 💠Displays a results table with:
+
 •Yearly breakdown of investment value.
+
 •Annual and total interest earned.
+
 •Total invested capital.
+
 •Responsive and user-friendly interface.
+
 •Real-time calculations as users update inputs.
 
 # Getting Started
@@ -25,20 +34,20 @@ Node.js (v16 or higher)
 npm (Node Package Manager)
 
 # Installation
- ## Clone the Repositry:
+1.Clone the Repositry:
 ```
 git clone https://github.com/your-username/investment-calculator.git
 ```
 
-## Navigate into the repository folder
+2.Navigate into the repository folder
 ```
 cd repository
 ```
-## Install dependencies
+3.Install dependencies
 ```
 npm install
 ```
-## Start the development server:
+4.Start the development server:
 ```
 npm run dev
 ```
