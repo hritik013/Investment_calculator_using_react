@@ -1,6 +1,10 @@
 # Investment Calculator
 An interactive React-based application that calculates the investment growth over a period of time based on user inputs. The app allows users to input initial investment, annual contributions, expected return rate, and investment duration to view detailed results.
 
+## Live Demo
+Check out the live version of this project here:
+👉 [Investment Calculator on Netlify](https://calculate-your-investment.netlify.app/)
+
 # Table of Contents
 # Features
 💠Input fields for:
